@@ -1,3 +1,7 @@
+### ローカルで実行したいとき
+```bundle exec jekyll serve```
+
+
 # { name } resume
 
 ## Sample
