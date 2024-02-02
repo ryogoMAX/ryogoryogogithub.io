@@ -7,11 +7,11 @@
 |氏名|大泉直人 (Naoto Oizumi)|
 |居住地|茨城県 つくば市|
 |出身|茨城県 日立市|
-|大学|筑波大学理工学群[社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php) <br> 経営工学主専攻予定|
+|大学|筑波大学 理工学群[社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php) <br> 経営工学主専攻予定|
 
 ---
 
-スポーツとラーメンが大好きです
+スポーツとラーメンが大好きです。
 
 ---
 
@@ -33,7 +33,6 @@
 </a>
 </p>
 
-icons are made by [Shield.io](https://shields.io/badges)
 
 ---
 <!--
