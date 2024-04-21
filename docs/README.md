@@ -1,5 +1,6 @@
-# info
+# Portfolio of 7010
 
+# info
 |🏷️|📌|
 |---|---|
 |氏名|大泉直人 (Naoto Oizumi)|
@@ -9,7 +10,7 @@
 |大学|筑波大学 理工学群[社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php) <br> 経営工学主専攻予定 B2 (2023/4~)|
 
 # affiliations
-- OneThing（筑波大学エンジニアコミュニティ） 代表（2024/4~）
+- OneThing（筑波大学エンジニアコミュニティ） 代表
 - 筑波大学宿舎祭実行委員（[やど祭](yadosai.com)）
 
 # favorites
@@ -21,6 +22,9 @@
     - 鹿島アントラーズ
 - ラーメン巡り
 - サイクリング
+- ガジェット
+- 金融投資・資産形成
+  - インデックスしかやっていないので高配当やってみたい
 
 # accounts
 <p>
