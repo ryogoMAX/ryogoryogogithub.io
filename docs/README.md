@@ -1,6 +1,4 @@
-# 大泉直人のポートフォリオ
-
-## info
+# info
 
 |🏷️|📌|
 |---|---|
@@ -10,16 +8,21 @@
 |高校|茨城県立 [水戸第一高等学校](https://www.mito1-h.ibk.ed.jp/)（令和5年卒）|
 |大学|筑波大学 理工学群[社会工学類](https://www.sk.tsukuba.ac.jp/College/index.php) <br> 経営工学主専攻予定 B2 (2023/4~)|
 
-## affiliations
+# affiliations
 - OneThing（筑波大学エンジニアコミュニティ） 代表（2024/4~）
 - 筑波大学宿舎祭実行委員（[やど祭](yadosai.com)）
 
-## favorites
+# favorites
 - スポーツ観戦
+  - 海外サッカー
+    - プレミアリーグ
+  - 国内サッカー（Ｊリーグ）
+    - 水戸ホーリーホック
+    - 鹿島アントラーズ
 - ラーメン巡り
 - サイクリング
 
-## accounts
+# accounts
 <p>
 <a href="https://github.com/naotoizu7010" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/naotoizu_7010" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
