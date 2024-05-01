@@ -10,7 +10,7 @@ https://github.com/kawamataryo/resume
 
 ## Features
 
-### 💅 Lint tex
+### 💅 Lint text
 
 Automatic proofreading with [textlint](https://github.com/textlint/textlint).
 
