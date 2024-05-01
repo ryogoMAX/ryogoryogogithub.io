@@ -27,6 +27,8 @@
 - 金融投資・資産形成
   - インデックスしかやっていないので高配当やってみたい
 
+ここを変えると反映される
+
 # accounts
 <p>
 <a href="https://github.com/naotoizu7010" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
